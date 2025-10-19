@@ -1,6 +1,6 @@
 import "./App.css";
 import { Listas } from "./componentes/Listas";
-import Profile from "./componentes/Profile";
+import { Profile } from "./componentes/profile";
 import { Recetas, TeaGathering } from "./componentes/Recetas";
 import PackingList from "./componentes/taskList";
 
